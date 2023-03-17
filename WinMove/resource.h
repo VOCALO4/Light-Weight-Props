@@ -1,0 +1,3 @@
+#define ICON_WXM		100
+#define ICON_TRAY_ON	101
+#define ICON_TRAY_OFF	102

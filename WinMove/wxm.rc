@@ -1,0 +1,6 @@
+#include "resource.h"
+
+ICON_WXM		ICON	"icon.ico"
+ICON_TRAY_ON	ICON	"trayon.ico"
+ICON_TRAY_OFF	ICON	"trayoff.ico"
+
